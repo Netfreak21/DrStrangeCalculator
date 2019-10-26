@@ -67,7 +67,8 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
-
+    
+    // Sets the Text for display
     public void display(View view) {
         Double xe =  EvaluateString.evaluate(str);
         Toast.makeText(MainActivity.this,postfi,Toast.LENGTH_LONG).show();
