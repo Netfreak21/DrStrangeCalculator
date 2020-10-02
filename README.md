@@ -11,4 +11,4 @@ So, in the words of Linus, "Go wild, fork the project, and prove your point. Sho
 
 •	add the coolest feature: shake to clear the screen (i.e. the last operation)
 
-•	add a widget on screen for this app
+•	add a widget on screen for this app so its easily accessible
